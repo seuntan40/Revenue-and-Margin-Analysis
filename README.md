@@ -55,8 +55,8 @@ This project presents a **Revenue and Margin Analysis** using **Power BI** to an
 - **Excel/Python** *(if applicable)*: Data cleaning and preprocessing
 
 ## Files Included
-- **Sales Revenue Report (PDF)**: Contains revenue trends, gross margins, and key performance insights
-- **Power BI Dashboard (if available)**: Interactive dashboard for deeper analysis
+- **Sales Revenue Report **: Contains revenue trends, gross margins, and key performance insights
+- **Power BI Dashboard**: Interactive dashboard for deeper analysis
 
 ## How to Use This Analysis
 1. **Understand Seasonal Trends**: Identify peak sales months for better inventory planning.
